@@ -1,0 +1,1 @@
+gedit filename (TO open a file from terminal for editing in gedit editor)gedit filename (TO open a file from terminal for editing in gedit editor)gedit filename (TO open a file from terminal for editing in gedit editor)https://github.com/itsvimalraj/RepositoryC/tree/deve_branch
